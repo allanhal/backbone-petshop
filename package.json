@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "json-server --watch db/db.json --routes db/routes.json"
+    "start": "json-server --watch db/db.json --routes db/routes.json json-server --port $PORT"
   },
   "repository": {
     "type": "git",
