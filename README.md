@@ -6,6 +6,15 @@ A crud-project with BackboneJS to show a lista of Petshop Clinics.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
+### Thumbs
+
+<img align="left" src="https://raw.githubusercontent.com/allanhal/backbone-petshop/master/assets/screen1.png" width="300" title="screen1">
+<img align="left" src="https://raw.githubusercontent.com/allanhal/backbone-petshop/master/assets/screen2.png" width="300" title="screen2">
+<img align="left" src="https://raw.githubusercontent.com/allanhal/backbone-petshop/master/assets/screen3.png" width="300" title="screen3">
+<img align="left" src="https://raw.githubusercontent.com/allanhal/backbone-petshop/master/assets/screen4.png" width="300" title="screen4">
+<img src="https://raw.githubusercontent.com/allanhal/backbone-petshop/master/assets/screen5.png" width="300" title="screen5">
+<br>
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
