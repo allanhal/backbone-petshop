@@ -26,12 +26,14 @@
     {
       "id": 5,
       "name": "Petshop5",
-      "cityId": "1"
+      "phone": "",
+      "cityId": "3"
     },
     {
       "id": 6,
       "name": "Petshop6",
-      "cityId": "2"
+      "phone": "",
+      "cityId": "4"
     },
     {
       "id": 7,
@@ -111,6 +113,12 @@
       "name": "999",
       "phone": "999",
       "cityId": "3"
+    },
+    {
+      "id": 22,
+      "name": "1",
+      "phone": "1",
+      "cityId": "1"
     }
   ],
   "city": [
