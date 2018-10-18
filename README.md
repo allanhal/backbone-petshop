@@ -1,6 +1,6 @@
 # backbone-petshop
 
-A crud-project with BackboneJS to show a lista of Petshop Clinics.
+A crud-project with BackboneJS to show a list of Petshop Clinics.
 
 ## Getting Started
 
@@ -35,7 +35,6 @@ npm i
 npm start
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Built upon
 
