@@ -1,0 +1,72 @@
+<div class="row status-bar">
+    <div class="span12">
+        <div class="alert alert-success" style="display: none">
+            <b>Success!</b> Petshop saved successfully
+        </div>
+    </div>
+</div>
+
+<div class="row">
+
+    <form class="form-horizontal span12">
+
+
+        <fieldset>
+
+            <legend>Details</legend>
+            <br />
+
+            <div class="row">
+                <div class="span9">
+
+                    <div class="control-group">
+                        <label for="petshopId" class="control-label">Id:</label>
+
+                        <div class="controls">
+                            <input id="petshopId" name="id" type="text" value="<%= id === null ? '' : id %>" class="span1"
+                                disabled/>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label for="name" class="control-label">Name:</label>
+
+                        <div class="controls">
+                            <input type="text" id="name" name="name" value="<%= name %>"/>
+                            <span class="help-inline"></span>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label for="name" class="control-label">Phone:</label>
+
+                        <div class="controls">
+                            <input type="text" id="phone" name="phone" value="<%= phone %>"/>
+                            <span class="help-inline"></span>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label for="name" class="control-label">City:</label>
+                        <div class="controls">
+                            <select id="cityId" name="cityId">
+                            </select>
+                            <span class="help-inline"></span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </fieldset>
+
+        <div class="form-actions">
+            <a href="#" class="btn">Home</a>
+            <a href="#" class="btn btn-primary save">Save</a>
+            <a href="#" class="btn btn-danger delete">Delete</a>
+        </div>
+
+    </form>
+
+</div>

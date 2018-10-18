@@ -1,0 +1,134 @@
+{
+  "petshops": [
+    {
+      "id": 1,
+      "name": "Petshop1",
+      "phone": "(555) 1234-5421",
+      "cityId": "3"
+    },
+    {
+      "id": 2,
+      "name": "Petshop2",
+      "phone": "(555) 1234-1111",
+      "cityId": "4"
+    },
+    {
+      "id": 3,
+      "name": "Petshop3",
+      "phone": "(555) 1234-3232",
+      "cityId": "2"
+    },
+    {
+      "id": 4,
+      "name": "Petshop4",
+      "cityId": "3"
+    },
+    {
+      "id": 5,
+      "name": "Petshop5",
+      "cityId": "1"
+    },
+    {
+      "id": 6,
+      "name": "Petshop6",
+      "cityId": "2"
+    },
+    {
+      "id": 7,
+      "name": "Petshop7",
+      "cityId": "1"
+    },
+    {
+      "id": 8,
+      "name": "Petshop8",
+      "phone": "+5521982949516",
+      "cityId": "2"
+    },
+    {
+      "id": 9,
+      "name": "Petshop9",
+      "cityId": "3"
+    },
+    {
+      "id": 10,
+      "name": "Petshop10",
+      "cityId": "1"
+    },
+    {
+      "id": 11,
+      "name": "Petshop11",
+      "cityId": "2"
+    },
+    {
+      "id": 12,
+      "name": "Petshop12",
+      "cityId": "3"
+    },
+    {
+      "id": 13,
+      "name": "Petshop13",
+      "cityId": "1"
+    },
+    {
+      "id": 14,
+      "name": "Petshop14",
+      "cityId": "2"
+    },
+    {
+      "id": 15,
+      "name": "Petshop15",
+      "cityId": "3"
+    },
+    {
+      "id": 16,
+      "name": "Petshop16",
+      "cityId": "1"
+    },
+    {
+      "id": 17,
+      "name": "Petshop17",
+      "cityId": "2"
+    },
+    {
+      "id": 18,
+      "name": "Petshop18",
+      "cityId": "3"
+    },
+    {
+      "id": 19,
+      "name": "2",
+      "phone": "2",
+      "cityId": "2"
+    },
+    {
+      "id": 20,
+      "name": "1",
+      "phone": "1",
+      "cityId": "1"
+    },
+    {
+      "id": 21,
+      "name": "999",
+      "phone": "999",
+      "cityId": "3"
+    }
+  ],
+  "city": [
+    {
+      "id": 1,
+      "name": "Sp"
+    },
+    {
+      "id": 2,
+      "name": "Rj"
+    },
+    {
+      "id": 3,
+      "name": "Fortaleza"
+    },
+    {
+      "id": 4,
+      "name": "Aquiraz"
+    }
+  ]
+}
